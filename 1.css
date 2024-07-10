@@ -1,0 +1,9 @@
+#chat{
+    margin:0 auto;
+    width:80%;
+    height: 250px;
+    overflow: scroll;
+    background-color: aqua;
+    border: 2px solid blue;
+    border-radius: 3px;
+}
